@@ -1,1 +1,1 @@
-# Generating_Music_using_LSTMs
+# Generating Jazz Music using LSTMs

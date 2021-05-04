@@ -13,7 +13,7 @@ This is the architecture of the model we use.
 
 # References
 
-This is a project I did as a part of my course on Sequence Models. The ideas used in this project came primarily from the computational music papers cited below :
+I did this project as a part of my course on Sequence Models. The ideas used in this project came primarily from the computational music papers cited below :
 
 - Ji-Sung Kim, 2016, [deepjazz](https://github.com/jisungk/deepjazz)
 - Jon Gillick, Kevin Tang and Robert Keller, 2009. [Learning Jazz Grammars](http://ai.stanford.edu/~kdtang/papers/smc09-jazzgrammar.pdf)

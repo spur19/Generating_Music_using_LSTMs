@@ -1,5 +1,5 @@
 # Generating Music using LSTMs
-This is a project I did as a part of my course on Sequence Models. I implemented a LSTM and used it to generate novel jazz music from a body of performed work. This project uses TensorFlow 1 and Keras 2.1.5
+In this project, I implemented a LSTM network and used it to generate novel jazz music from a body of performed work. This project uses TensorFlow 1 and Keras 2.1.5
 
 # Overview
 
@@ -13,7 +13,7 @@ This is the architecture of the model we use.
 
 # References
 
-The ideas used in this project came primarily from the computational music papers cited below. 
+This is a project I did as a part of my course on Sequence Models. The ideas used in this project came primarily from the computational music papers cited below :
 
 - Ji-Sung Kim, 2016, [deepjazz](https://github.com/jisungk/deepjazz)
 - Jon Gillick, Kevin Tang and Robert Keller, 2009. [Learning Jazz Grammars](http://ai.stanford.edu/~kdtang/papers/smc09-jazzgrammar.pdf)
